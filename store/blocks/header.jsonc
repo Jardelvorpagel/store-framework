@@ -41,7 +41,7 @@
         ],
         "props": {
             "inverted": true,
-            "stycky": true,
+            "sticky": true,
             "fullWidth": false
         }
     },
