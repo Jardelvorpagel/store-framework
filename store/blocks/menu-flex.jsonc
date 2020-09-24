@@ -24,11 +24,7 @@
     "flex-layout.col#menu": {
         "children": [
             "vtex.menu@2.x:menu#major"
-        ],
-        "props": {
-            "paddingRight": 4,
-            "horizontalAlign": "right"
-        }
+        ]
     },
     "flex-layout.col#img": {
         "children": [
@@ -54,6 +50,7 @@
         "props": {
             "text": "**Free Shipping on orders over $50**",
             "textAlignment": "CENTER",
+            "textPosition": "CENTER",
             "font": "t-heading-5"
         }
     }
