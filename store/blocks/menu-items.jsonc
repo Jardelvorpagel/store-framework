@@ -18,11 +18,11 @@
       "itemProps": {
         "categoryId": 2,
         "text": "Small Appliances"
-      },
-      "blocks": [
-        "vtex.menu@2.x:submenu#small"
-      ]
-    }
+      }
+    },
+    "blocks": [
+      "vtex.menu@2.x:submenu#small"
+    ]
   },
   "menu-item#electronics": {
     "props": {
